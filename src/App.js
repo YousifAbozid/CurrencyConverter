@@ -59,7 +59,7 @@ const App = () => {
   }
 
   return (
-    <div>
+    <div className="main_div">
       <h1>Convert</h1>
       <CurrencyRow 
         currencyOptions={currencyOptions}
